@@ -1,0 +1,272 @@
+.title{
+    font-size: larger;
+    border-radius: 10px;
+    width: 250px;
+    border: 5px solid pink;
+    padding: 10px;
+    margin: 10px;
+}
+.tags .tag {
+    background-color: white;
+    font-size: large;
+    border-radius: 20px;
+    color: rgb(21 33 49/var(--tw-text-opacity));
+    display: inline-block;
+    margin-right: 0.5rem;
+    margin-left: 0.5rem;
+    padding: 0rem 1.5rem;
+    -webkit-text-decoration-line: none;
+    text-decoration-line: none;
+}
+.trendinglet{
+        font-size: larger;
+        border-radius: 10px;
+        width: 70px;
+        border: 5px solid darkgray;
+        padding: 2px;
+        margin: 10px;
+}
+.tshirt1bg{
+    background: url(fashionimage/fashionbg.png);
+    position: absolute; 
+    width: 1895px;
+    height: 600px;
+    border-radius: 20px;
+}
+.tshirt1bg img{
+    width: 275px;
+    height: 500px;
+    margin-left: 18px;   
+    margin-top: 18px;
+    border-radius: 20px;
+}
+.tshirt1bglet1{
+    margin-top: -1px;
+    margin-left: 80px;
+}
+.tshirt1bglet2{
+    margin-left: 75px; 
+    margin-top: -15px;
+}
+.tshirt1bglet3{
+    margin-left: 125px; 
+    margin-top: -15px;
+}
+.tshirt2bg img{
+    position: relative;
+    width: 275px;
+    height: 500px;
+    margin-left: 336px;   
+    margin-top: 18px;
+    border-radius: 20px;
+}
+.tshirt2bglet1{
+    position: relative;
+    margin-top: -1px;
+    margin-left: 420px;
+}
+.tshirt2bglet2{
+    position: relative;
+    margin-left: 420px; 
+    margin-top: -15px; 
+}
+.tshirt2bglet3{
+    position: relative;
+    margin-left: 455px; 
+    margin-top: -15px; 
+}
+.tshirt3bg img{
+    position: relative;
+    width: 275px;
+    height: 500px;
+    margin-left: 652px;   
+    margin-top: -574px;
+    margin-bottom: 300px;
+    border-radius: 20px;
+}
+.tshirt3bglet1{
+    position: relative;
+    margin-top: -300px;
+    margin-left: 720px;
+}
+.tshirt3bglet2{
+    position: relative;
+    margin-left: 720px; 
+    margin-top: -15px; 
+}
+.tshirt3bglet3{
+    position: relative;
+    margin-left: 755px; 
+    margin-top: -15px; 
+}
+.tshirt4bg img{
+    position: relative;
+    width: 275px;
+    height: 500px;
+    margin-left: 969px;   
+    margin-top: -590px;
+    margin-bottom: 300px;
+    border-radius: 20px;
+}
+.tshirt4bglet1{
+    position: relative;
+    margin-top: -300px;
+    margin-left: 1035px;
+}
+.tshirt4bglet2{
+    position: relative;
+    margin-left: 1035px; 
+    margin-top: -15px; 
+}
+.tshirt4bglet3{
+    position: relative;
+    margin-left: 1070px; 
+    margin-top: -15px; 
+}
+.tshirt5bg img{
+    position: relative;
+    width: 275px;
+    height: 500px;
+    margin-left: 1286px;   
+    margin-top: -605px;
+    margin-bottom: 300px;
+    border-radius: 20px;
+}
+.tshirt5bglet1{
+    position: relative;
+    margin-top: -300px;
+    margin-left: 1360px;
+}
+.tshirt5bglet2{
+    position: relative;
+    margin-left: 1360px; 
+    margin-top: -15px; 
+}
+.tshirt5bglet3{
+    position: relative;
+    margin-left: 1390px; 
+    margin-top: -15px; 
+}
+.tshirt6bg img{
+    position: relative;
+    width: 275px;
+    height: 500px;
+    margin-left: 1603px;   
+    margin-top: -621px;
+    margin-bottom: 300px;
+    border-radius: 20px;
+}
+.tshirt6bglet1{
+    position: relative;
+    margin-top: -301px;
+    margin-left: 1670px;
+    color: white;
+}
+.tshirt6bglet2{
+    position: relative;
+    margin-left: 1670px; 
+    margin-top: -15px; 
+    color: white;
+    
+}
+.tshirt6bglet3{
+    position: relative;
+    margin-left: 1710px; 
+    margin-top: -15px; 
+    color: white;
+}
+.ktc{
+    margin-top: -30px;
+    margin-left: 50px;
+    border-radius: 10px;
+    width: 250px;
+    border: 5px solid pink;
+    padding: 10px;
+    margin: 10px;
+    font-size: larger;
+}
+.womanlet{
+    font-size: larger;
+    border-radius: 10px;
+    width: 60px;
+    border: 5px solid darkgray;
+    padding: 2px;
+    margin: 10px;
+}
+.tradiwoman1{
+    position: absolute;
+    background-image: url(/fashionimage/tradibg.webp);
+    width: 1895px;
+    height: 310px;
+    border-radius: 20px;
+}
+.tradiwoman1 img{
+    width: 200px;
+    height: 275px;
+    margin-left: 20px;
+    margin-top: 18px;
+    border-radius: 20px;
+}
+.tradiwoman2 img{
+    position: relative;
+    width: 200px;
+    height: 275px;
+    margin-left: 255px;
+    margin-top: 18px;
+    border-radius: 20px;
+}
+.tradiwoman3 img{
+    position: relative;
+    width: 200px;
+    height: 275px;
+    margin-left: 490px;
+    margin-top: -320px;
+    margin-bottom: 18px;
+    border-radius: 20px;
+}
+.tradiwoman4 img{
+    position: relative;
+    width: 200px;
+    height: 275px;
+    margin-left: 725px;
+    margin-top: -320px;
+    margin-bottom: 37px;
+    border-radius: 20px;
+}
+.tradiwoman5 img{
+    position: relative;
+    width: 200px;
+    height: 275px;
+    margin-left: 963px;
+    margin-top: -320px;
+    margin-bottom: 56px;
+    border-radius: 20px;
+}
+.tradiwoman6 img{
+    position: relative;
+    width: 200px;
+    height: 275px;
+    margin-left: 1200px;
+    margin-top: -335px;
+    margin-bottom: 94px;
+    border-radius: 20px;
+}
+.tradiwoman7 img{
+    position: relative;
+    width: 200px;
+    height: 275px;
+    margin-left: 1436px;
+    margin-top: -485px;
+    margin-bottom: 112px;
+    border-radius: 20px;
+}
+.tradiwoman8 img{
+    position: relative;
+    width: 200px;
+    height: 275px;
+    margin-left: 1674px;
+    margin-top: -390px;
+    margin-bottom: 790px;
+    border-radius: 20px;
+}
+

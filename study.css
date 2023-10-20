@@ -1,0 +1,434 @@
+.home{
+    position: relative;
+    top: -3850px;
+    display: block;
+}
+p{
+    position: absolute;
+    right: 560px;
+    top: 320px;
+    font-size: 50px;
+    display: inline-block;
+    border: 10px solid orange;
+    padding: 20px;
+    border-radius: 25px;
+}
+.bg2{
+    position: absolute;
+    width: 1903px;
+    margin-left: -8px;
+    margin-top: -5px;
+}
+.baglet{
+    position: absolute;
+    font-size: 25px;
+    color: darkred;
+    border-radius: 10px;
+    width: 110px;
+    border: 5px solid burlywood;
+    padding: 2px;  
+    top: 920px;
+    left: 900px;
+}
+.bag1{
+    position: relative;
+    background-repeat: no-repeat;
+    background-image: url(/studyitems/bgpic2.jpg);
+    width: 222px;
+    height: 278px;
+    margin-left: 150px;
+    margin-top: 60px;
+    border-radius: 10px;
+}
+.bag1 img{
+    position: relative;
+    width: 208px;
+    height: 262px;
+    margin-left: 7px;
+    margin-top: 8px;
+    border-radius: 10px;
+}
+.bag2{
+    position: relative;
+    background-repeat: no-repeat;
+    background-image: url(/studyitems/bgpic2.jpg);
+    width: 222px;
+    height: 278px;
+    margin-left: 150px;
+    margin-top: 60px;
+    border-radius: 10px;
+}
+.bag2 img{
+    position: relative;
+    width: 208px;
+    height: 262px;
+    margin-left: 7px;
+    margin-top: 8px;
+    border-radius: 10px;
+}
+.bag3{
+    position: relative;
+    background-repeat: no-repeat;
+    background-image: url(/studyitems/bgpic2.jpg);
+    width: 222px;
+    height: 278px;
+    margin-left: 150px;
+    margin-top: 60px;
+    border-radius: 10px;
+}
+.bag3 img{
+    position: relative;
+    width: 208px;
+    height: 262px;
+    margin-left: 7px;
+    margin-top: 8px;
+    border-radius: 10px;
+}
+.bag4{
+    position: relative;
+    background-repeat: no-repeat;
+    background-image: url(/studyitems/bgpic2.jpg);
+    width: 222px;
+    height: 278px;
+    margin-left: 536px;   
+    margin-top: -950px;
+    border-radius: 10px;
+}
+.bag4 img{
+    position: relative;
+    width: 208px;
+    height: 262px;  
+    margin-left: 7px;
+    margin-top: 8px;
+    border-radius: 10px;
+}
+.bag5{
+    position: relative;
+    background-repeat: no-repeat;
+    background-image: url(/studyitems/bgpic2.jpg);
+    width: 222px;
+    height: 278px;
+    margin-left: 536px;
+    margin-top: 60px;
+    border-radius: 10px;
+}
+.bag5 img{
+    position: relative;
+    width: 208px;
+    height: 262px;
+    margin-left: 7px;
+    margin-top: 8px;
+    border-radius: 10px;
+}
+.bag6{
+    position: relative;
+    background-repeat: no-repeat;
+    background-image: url(/studyitems/bgpic2.jpg);
+    width: 222px;
+    height: 278px;
+    margin-left: 536px;
+    margin-top: 60px;
+    border-radius: 10px;
+}
+.bag6 img{
+    position: relative;
+    width: 208px;
+    height: 262px;
+    margin-left: 7px;
+    margin-top: 8px;
+    border-radius: 10px;
+}
+.bag7{
+    position: relative;
+    background-repeat: no-repeat;
+    background-image: url(/studyitems/bgpic2.jpg);
+    width: 222px;
+    height: 278px;
+    margin-left: 922px;   
+    margin-top: -950px;
+    border-radius: 10px;
+}
+.bag7 img{
+    position: relative;
+    width: 208px;
+    height: 262px;  
+    margin-left: 7px;
+    margin-top: 8px;
+    border-radius: 10px;
+}
+.bag8{
+    position: relative;
+    background-repeat: no-repeat;
+    background-image: url(/studyitems/bgpic2.jpg);
+    width: 222px;
+    height: 278px;
+    margin-left: 922px;
+    margin-top: 60px;
+    border-radius: 10px;
+}
+.bag8 img{
+    position: relative;
+    width: 208px;
+    height: 262px;
+    margin-left: 7px;
+    margin-top: 8px;
+    border-radius: 10px;
+}
+.bag9{
+    position: relative;
+    background-repeat: no-repeat;
+    background-image: url(/studyitems/bgpic2.jpg);
+    width: 222px;
+    height: 278px;
+    margin-left: 922px;
+    margin-top: 60px;
+    border-radius: 10px;
+}
+.bag9 img{
+    position: relative;
+    width: 208px;
+    height: 262px;
+    margin-left: 7px;
+    margin-top: 8px;
+    border-radius: 10px;
+}
+.bagreview1{
+    border-radius: 10px;
+    position: relative;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 278px;
+    margin-top: -955px;
+    margin-left: 1300px;
+    margin-bottom: 800px;
+}
+.bagreview2{
+    border-radius: 10px;
+    position: relative;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 278px;
+    margin-top: -740px;
+    margin-left: 1300px;
+    margin-bottom: 800px;
+}
+.bagreview3{
+    border-radius: 10px;
+    position: relative;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 278px;
+    margin-top: -750px;
+    margin-left: 1300px;
+    margin-bottom: 800px;
+}
+.bg3{
+    position: absolute;
+    width: 1903px;
+    height: 1100px;
+    margin-top: -426px;
+    margin-left: -1808px;
+}
+.pencillet{
+    position: relative;
+    font-size: 25px;
+    color: darkred;
+    border-radius: 10px;
+    width: 73px;
+    border: 5px solid orange;
+    padding: 2px;  
+    top: -770px;
+    left: 900px;
+}
+.penc1{
+    position: relative;
+    background-repeat: no-repeat;
+    background-image: url(/studyitems/bgpic3.jpg);
+    width: 222px;
+    height: 278px;
+    margin-left: 150px;
+    margin-top: -760px;
+    border-radius: 10px;
+}
+.penc1 img{
+    position: relative;
+    width: 208px;
+    height: 262px;
+    margin-left: 7px;
+    margin-top: 8px;
+    border-radius: 10px;
+}
+.penc2{
+    position: relative;
+    background-repeat: no-repeat;
+    background-image: url(/studyitems/bgpic3.jpg);
+    width: 222px;
+    height: 278px;
+    margin-left: 150px;
+    margin-top: 60px;
+    border-radius: 10px;
+}    
+.penc2 img{
+    position: relative;
+    width: 208px;
+    height: 262px;
+    margin-left: 7px;
+    margin-top: 8px;
+    border-radius: 10px;
+}
+.penc3{
+    position: relative;
+    background-repeat: no-repeat;
+    background-image: url(/studyitems/bgpic3.jpg);
+    width: 222px;
+    height: 278px;
+    margin-left: 150px;
+    margin-top: 60px;
+    border-radius: 10px;
+}
+.penc3 img{
+    position: relative;
+    width: 208px;
+    height: 262px;
+    margin-left: 7px;
+    margin-top: 8px;
+    border-radius: 10px;
+}
+.penc4{
+    position: relative;
+    background-repeat: no-repeat;
+    background-image: url(/studyitems/bgpic3.jpg);
+    width: 222px;
+    height: 278px;
+    margin-left: 536px;   
+    margin-top: -950px;
+    border-radius: 10px;
+}
+.penc4 img{
+    position: relative;
+    width: 208px;
+    height: 262px;  
+    margin-left: 7px;
+    margin-top: 8px;
+    border-radius: 10px;
+}
+.penc5{
+    position: relative;
+    background-repeat: no-repeat;
+    background-image: url(/studyitems/bgpic3.jpg);
+    width: 222px;
+    height: 278px;
+    margin-left: 536px;
+    margin-top: 60px;
+    border-radius: 10px;
+}
+.penc5 img{
+    position: relative;
+    width: 208px;
+    height: 262px;
+    margin-left: 7px;
+    margin-top: 8px;
+    border-radius: 10px;
+}
+.penc6{
+    position: relative;
+    background-repeat: no-repeat;
+    background-image: url(/studyitems/bgpic3.jpg);
+    width: 222px;
+    height: 278px;
+    margin-left: 536px;
+    margin-top: 60px;
+    border-radius: 10px;
+}
+.penc6 img{
+    position: relative;
+    width: 208px;
+    height: 262px;
+    margin-left: 7px;
+    margin-top: 8px;
+    border-radius: 10px;
+}
+.penc7{
+    position: relative;
+    background-repeat: no-repeat;
+    background-image: url(/studyitems/bgpic3.jpg);
+    width: 222px;
+    height: 278px;
+    margin-left: 922px;   
+    margin-top: -950px;
+    border-radius: 10px;
+}
+.penc7 img{
+    position: relative;
+    width: 208px;
+    height: 262px;  
+    margin-left: 7px;
+    margin-top: 8px;
+    border-radius: 10px;
+}
+.penc8{
+    position: relative;
+    background-repeat: no-repeat;
+    background-image: url(/studyitems/bgpic3.jpg);
+    width: 222px;
+    height: 278px;
+    margin-left: 922px;
+    margin-top: 60px;
+    border-radius: 10px;
+}
+.penc8 img{
+    position: relative;
+    width: 208px;
+    height: 262px;
+    margin-left: 7px;
+    margin-top: 8px;
+    border-radius: 10px;
+}
+.penc9{
+    position: relative;
+    background-repeat: no-repeat;
+    background-image: url(/studyitems/bgpic3.jpg);
+    width: 222px;
+    height: 278px;
+    margin-left: 922px;
+    margin-top: 60px;
+    border-radius: 10px;
+}
+.penc9 img{
+    position: relative;
+    width: 208px;
+    height: 262px;
+    margin-left: 7px;
+    margin-top: 8px;
+    border-radius: 10px;
+}
+.pencreview1{
+    border-radius: 10px;
+    position: relative;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 278px;
+    margin-top: -955px;
+    margin-left: 1300px;
+    margin-bottom: 800px;
+}
+.pencreview2{
+    border-radius: 10px;
+    position: relative;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 278px;
+    margin-top: -740px;
+    margin-left: 1300px;
+    margin-bottom: 800px;
+}
+.pencreview3{
+    border-radius: 10px;
+    position: relative;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 278px;
+    margin-top: -750px;
+    margin-left: 1300px;
+    margin-bottom: 800px;
+}

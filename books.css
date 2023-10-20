@@ -1,0 +1,349 @@
+body{
+    background-image: url(/books/studybg.webp);
+    background-repeat: no-repeat;
+}
+.love{
+    color: black;
+    margin-top: 30px;
+    border-radius: 10px;
+    width: 40px;
+    border: 5px solid gray;
+    padding: 10px;
+    background-color: yellow;
+    margin-left: 150px;
+    font-size: larger;
+}
+.title{
+    width: 250px;
+    border: 5px solid yellow;
+    padding: 10px;
+    margin: 10px;
+}
+.books1bg{
+    border-radius: 10px;
+    margin-left: 150px;
+    margin-top: 30px;
+    background-image: url(/books/graybg.png);
+    width: 222px;
+    height: 318px;
+}
+.books1bg img{
+    border-radius: 10px;
+    width: 208px;
+    height: 302px;
+    margin-left: 7px;
+    margin-top: 8px;
+}
+.books2bg{
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-top: -318px;
+    background-image: url(/books/graybg.png);
+    width: 222px;
+    height: 318px;
+}
+.books2bg img{
+    border-radius: 10px;
+    width: 208px;
+    height: 302px;
+    margin-left: 7px;
+    margin-top: 8px;
+}
+.books3bg{
+    border-radius: 10px;
+    margin-left: 850px;
+    margin-top: -318px;
+    background-image: url(/books/graybg.png);
+    width: 222px;
+    height: 318px;
+}
+.books3bg img{
+    border-radius: 10px;
+    width: 208px;
+    height: 302px;
+    margin-left: 7px;
+    margin-top: 8px;
+}
+.books4bg{
+    border-radius: 10px;
+    margin-left: 1200px;
+    margin-top: -318px;
+    background-image: url(/books/graybg.png);
+    width: 222px;
+    height: 318px;
+}
+.books4bg img{
+    border-radius: 10px;
+    width: 208px;
+    height: 302px;
+    margin-left: 7px;
+    margin-top: 8px;
+}
+.books5bg{
+    border-radius: 10px;
+    margin-left: 1550px;
+    margin-top: -318px;
+    background-image: url(/books/graybg.png);
+    width: 222px;
+    height: 318px;
+}
+.books5bg img{
+    border-radius: 10px;
+    width: 208px;
+    height: 302px;
+    margin-left: 7px;
+    margin-top: 8px;
+}
+.books6bg{
+    border-radius: 10px;
+    margin-left: 150px;
+    margin-top: 100px;
+    background-image: url(/books/graybg.png);
+    width: 222px;
+    height: 318px;
+}
+.books6bg img{
+    border-radius: 10px;
+    width: 208px;
+    height: 302px;
+    margin-left: 7px;
+    margin-top: 8px;
+}
+.books7bg{
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-top: -318px;
+    background-image: url(/books/graybg.png);
+    width: 222px;
+    height: 318px;
+}
+.books7bg img{
+    border-radius: 10px;
+    width: 208px;
+    height: 302px;
+    margin-left: 7px;
+    margin-top: 8px;
+}
+.books8bg{
+    border-radius: 10px;
+    margin-left: 850px;
+    margin-top: -318px;
+    background-image: url(/books/graybg.png);
+    width: 222px;
+    height: 318px;
+}
+.books8bg img{
+    border-radius: 10px;
+    width: 208px;
+    height: 302px;
+    margin-left: 7px;
+    margin-top: 8px;
+}
+.books9bg{
+    border-radius: 10px;
+    margin-left: 1200px;
+    margin-top: -318px;
+    background-image: url(/books/graybg.png);
+    width: 222px;
+    height: 318px;
+}
+.books9bg img{
+    border-radius: 10px;
+    width: 208px;
+    height: 302px;
+    margin-left: 7px;
+    margin-top: 8px;
+}
+.books10bg{
+    border-radius: 10px;
+    margin-left: 1550px;
+    margin-top: -318px;
+    background-image: url(/books/graybg.png);
+    width: 222px;
+    height: 318px;
+}
+.books10bg img{
+    border-radius: 10px;
+    width: 208px;
+    height: 302px;
+    margin-left: 7px;
+    margin-top: 8px;
+}
+.booksbg2 img{
+    display: block;
+    position: absolute;
+    margin-top: 76px;
+    margin-left: -8px;
+    width: 1895px;
+    height: 930px;
+}
+.books11bg{
+    position: relative;
+    border-radius: 10px;
+    margin-left: 150px;
+    margin-top: 210px;
+    background-image: url(/books/graybg.png);
+    width: 222px;
+    height: 318px;
+}
+.books11bg img{
+    position: relative;
+    border-radius: 10px;
+    width: 208px;
+    height: 302px;
+    margin-left: 7px;
+    margin-top: 8px;
+}       
+.books12bg{
+    position: relative;
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-top: -318px;
+    background-image: url(/books/graybg.png);
+    width: 222px;
+    height: 318px;
+}
+.books12bg img{
+    position: relative;
+    border-radius: 10px;
+    width: 208px;
+    height: 302px;
+    margin-left: 7px;
+    margin-top: 8px;
+}   
+.books13bg{
+    position: relative;
+    border-radius: 10px;
+    margin-left: 850px;
+    margin-top: -318px;
+    background-image: url(/books/graybg.png);
+    width: 222px;
+    height: 318px;
+}
+.books13bg img{
+    position: relative;
+    border-radius: 10px;
+    width: 208px;
+    height: 302px;
+    margin-left: 7px;
+    margin-top: 8px;
+}   
+.books14bg{
+    position: relative;
+    border-radius: 10px;
+    margin-left: 1200px;
+    margin-top: -318px;
+    background-image: url(/books/graybg.png);
+    width: 222px;
+    height: 318px;
+}
+.books14bg img{
+    position: relative;
+    border-radius: 10px;
+    width: 208px;
+    height: 302px;
+    margin-left: 7px;
+    margin-top: 8px;
+}  
+.books15bg{
+    position: relative;
+    border-radius: 10px;
+    margin-left: 1550px;
+    margin-top: -318px;
+    background-image: url(/books/graybg.png);
+    width: 222px;
+    height: 318px;
+}
+.books15bg img{
+    position: relative;
+    border-radius: 10px;
+    width: 208px;
+    height: 302px;
+    margin-left: 7px;
+    margin-top: 8px;
+}  
+.books16bg{
+    position: relative;
+    border-radius: 10px;
+    margin-left: 150px;
+    margin-top: 100px;
+    background-image: url(/books/graybg.png);
+    width: 222px;
+    height: 318px;
+}
+.books16bg img{
+    position: relative;
+    border-radius: 10px;
+    width: 208px;
+    height: 302px;
+    margin-left: 7px;
+    margin-top: 8px;
+}
+.books17bg{
+    position: relative;
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-top: -318px;
+    background-image: url(/books/graybg.png);
+    width: 222px;
+    height: 318px;
+}
+.books17bg img{
+    position: relative;
+    border-radius: 10px;
+    width: 208px;
+    height: 302px;
+    margin-left: 7px;
+    margin-top: 8px;
+}  
+.books18bg{
+    position: relative;
+    border-radius: 10px;
+    margin-left: 850px;
+    margin-top: -318px;
+    background-image: url(/books/graybg.png);
+    width: 222px;
+    height: 318px;
+}
+.books18bg img{
+    position: relative;
+    border-radius: 10px;
+    width: 208px;
+    height: 302px;
+    margin-left: 7px;
+    margin-top: 8px;
+}  
+.books19bg{
+    position: relative;
+    border-radius: 10px;
+    margin-left: 1200px;
+    margin-top: -318px;
+    background-image: url(/books/graybg.png);
+    width: 222px;
+    height: 318px;
+}
+.books19bg img{
+    position: relative;
+    border-radius: 10px;
+    width: 208px;
+    height: 302px;
+    margin-left: 7px;
+    margin-top: 8px;
+}  
+.books20bg{
+    position: relative;
+    border-radius: 10px;
+    margin-left: 1550px;
+    margin-top: -318px;
+    background-image: url(/books/graybg.png);
+    width: 222px;
+    height: 318px;
+}
+.books20bg img{
+    position: relative;
+    border-radius: 10px;
+    width: 208px;
+    height: 302px;
+    margin-left: 7px;
+    margin-top: 8px;
+} 

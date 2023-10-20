@@ -1,0 +1,216 @@
+body{
+    background-image: url(/image/indexgraybg.jpg);
+}
+.picstore{
+    width: 10%;
+    float: left;
+}
+.wel{
+    box-sizing: border-box;
+    font-size: 60px;    
+}
+.tags .tag, .tags .tag:hover {
+    --tw-bg-opacity: 1;
+    --tw-text-opacity: 1;
+}
+.tags .tag {
+    background-color: white;
+    border-radius: 20px;
+    color: rgb(21 33 49/var(--tw-text-opacity));
+    display: inline-block;
+    margin-top: 45px;
+    margin-bottom: 0.75rem;
+    margin-right: 0.75rem;
+    margin-left: 0.75rem;
+    padding: 0.25rem 1.5rem;
+    -webkit-text-decoration-line: none;
+    text-decoration-line: none;
+}
+
+.marquee1{
+    background-color: wheat ;
+    color: black;
+    scroll-behavior: smooth;
+    border-radius: 20px;
+}
+
+.graybg img{
+    width: 300px;
+    height: 500px;
+}
+
+.technologybg{
+    background-image: url(/image/technologubg2.png);
+    position: relative;
+    width: 300px;
+    height: 220px;
+    margin-top: 25px;
+    margin-left: 75px;
+}
+.technologybg img{
+    width: 290px;
+    height: 190px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.technologybg img:hover{
+    position: relative;  
+}
+.technolet{
+    color: white;
+    margin-top: -1px;
+}
+
+a:link{
+    text-decoration: none;   
+    color: black;
+}
+
+.fashionbg{
+    background-image: url(/image/purplejpg.jpg);
+    position: relative;
+    width: 300px;
+    height: 220px;
+    margin-top: -220px;
+    margin-left: 550px;
+}
+.fashionbg img{
+    width: 290px;
+    height: 190px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.fashionlet{
+    margin-top: -1px;
+    color: white;
+}
+
+.vehiclebg{
+    background-image: url(/image/graybg.png);
+    position: relative;
+    width: 300px;
+    height: 220px;
+    margin-top: -220px;
+    margin-left: 1025px;
+}
+.vehiclebg img{
+    width: 290px;
+    height: 190px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.vehiclelet{
+    margin-top: -1px;
+}
+
+.toybg{
+    background: url(/image/toybg3.webp);
+    position: relative;
+    width: 300px;
+    height: 220px;
+    margin-top: -220px;
+    margin-left: 1525px;
+}
+.toybg img{
+    width: 290px;
+    height: 190px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.toylet{
+    color: white;
+    margin-top: -1px;
+}
+.beautybg{
+    background: url(/image/pinkbg.jpg);
+    position: relative;
+    width: 300px;
+    height: 220px;
+    margin-top: 75px;
+    margin-left: 75px;
+}
+.beautybg img{
+    width: 290px;
+    height: 190px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.beautylet{
+    margin-top: -1px;
+    color: white;
+}
+.gamingbg{
+    background: url(/image/gamingbg1.jpg);
+    position: relative;
+    width: 300px;
+    height: 220px;
+    margin-top: -220px;
+    margin-left: 550px;
+}
+.gamingbg img{
+    width: 290px;
+    height: 190px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.gaminglet{
+    margin-top: -1px;
+    color: white;
+}
+.furniturebg{
+    background: url(/image/furniturebg1.jpg);
+    position: relative;
+    width: 300px;
+    height: 220px;
+    margin-top: -220px;
+    margin-left: 1025px;
+}
+.furniturebg img{
+    width: 290px;
+    height: 190px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.furniturelet{
+    margin-top: -1px;
+    color: white;
+}
+.plantsbg{
+    background: url(/image/plantsbg2.jpg);
+    width: 300px;
+    height: 220px;
+    margin-top: -220px;
+    margin-left: 1525px;
+}
+.plantsbg img{
+    width: 290px;
+    height: 190px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.plantslet{
+    margin-top: -1px;
+    color: white;
+}
+.housebg{
+    background: url(/image/longbg1.png);
+    width: 1100px;
+    height: 280px;
+    margin-top: 80px;
+    margin-left: 75px;
+}
+.housebg img{
+    width: 1090px;
+    height: 250px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.houselet{
+    margin-top: -1px;
+    color: white;
+}
+.vdoyt{
+    margin-top: -280px;
+    margin-left: 1265px;
+    margin-bottom: 50px;
+}
